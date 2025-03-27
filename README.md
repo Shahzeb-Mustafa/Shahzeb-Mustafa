@@ -35,7 +35,7 @@
 
 ### 📫 How to reach me  
 📩 Email: shahzaibmk123@gmail.com
-💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shahzeb-mustafa-ab94872b6/))  
+💼 [LinkedIn] ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shahzeb-mustafa-ab94872b6/))  
 
 
 ---
