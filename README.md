@@ -47,7 +47,7 @@
 
 ### 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzeb-Mustafa&show_icons=true&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shahzeb-Mustafa&theme=tokyonight)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shahzeb-Mustafa)](https://git.io/streak-stats)
 
 <!-- Dynamic Visitors Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Shahzeb-Mustafa&color=brightgreen)  
