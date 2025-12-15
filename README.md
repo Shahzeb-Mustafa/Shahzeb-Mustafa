@@ -14,7 +14,6 @@
 ---
 
 ### 🌱 I’m currently learning  
-- 🧠 **Fine-tuning LLMs** for custom datasets  
 - 🚀 **AI-powered automation & optimization**  
 - ⚡ **Scaling AI solutions for real-world applications**  
 
