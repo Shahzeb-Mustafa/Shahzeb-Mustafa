@@ -40,7 +40,7 @@
 ---
 
 ### 😄 Fun fact  
-🧠 *AI is cool, but automating AI with scripts is even cooler!* 🤯  
+ *AI is cool, but automating AI with scripts is even cooler!* 🤯  
 
 ---
 
