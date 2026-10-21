@@ -1,6 +1,7 @@
-<!-- Banner -->
+<!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4da3ff,100:ffb454&height=170&section=header&text=Shahzeb%20Mustafa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Real-Time%20Voice%20AI%20%7C%20Urdu%20%26%20Arabic%20TTS&descSize=16&descAlignY=60" alt="Shahzeb Mustafa - AI Engineer banner" />
+  <h1>Shahzeb Mustafa</h1>
+  <h3>AI Engineer | Real-Time Voice AI | Urdu &amp; Arabic TTS | Scraping &amp; Automation</h3>
 </div>
 
 <!-- Photo + intro -->
@@ -30,7 +31,7 @@
         <a href="https://github.com/Shahzeb-Mustafa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
         <a href="https://www.linkedin.com/in/shahzebmustafa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         <a href="mailto:shahzaibmk123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-        <a href="ADD-YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-4da3ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+        <a href="https://shahzeb-mustafa.github.io/"><img src="https://img.shields.io/badge/Portfolio-4da3ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
       </p>
     </td>
   </tr>
@@ -132,11 +133,11 @@
 ## 🤝 Open to
 
 Voice AI, Urdu/Arabic speech, LLM and RAG projects, web scraping, and automation work.  
+🌐 Portfolio: [shahzeb-mustafa.github.io](https://shahzeb-mustafa.github.io/)  
 📩 [shahzaibmk123@gmail.com](mailto:shahzaibmk123@gmail.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Shahzeb-Mustafa&color=4da3ff" alt="Profile views" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb454,100:4da3ff&height=100&section=footer" alt="" />
 </div>
 
 <!-- Keywords: Shahzeb Mustafa, AI Engineer, Voice AI, Urdu TTS, Arabic TTS, speech recognition, multi-agent systems, LLM, RAG, web scraping, automation, Islamabad, Pakistan, CallRolin, NUML -->
